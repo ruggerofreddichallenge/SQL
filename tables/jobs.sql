@@ -1,0 +1,4 @@
+﻿CREATE TABLE challenge.jobs (
+	id INT CONSTRAINT PK_id_jobs PRIMARY KEY CLUSTERED
+	,job NVARCHAR(50)
+	)
