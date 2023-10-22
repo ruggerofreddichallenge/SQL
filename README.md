@@ -14,7 +14,7 @@
 
 **Stored Procedure:**
 - delete_all_tables:
-  - empty tables departments, jobs and hired_employees.
+  - empties tables departments, jobs and hired_employees.
 - employees_hired: answers to point one of question two.
   - Parameters: year (default value 2021).
 - most_hiring_departments: answers to point two of question two.
