@@ -1,1 +1,1 @@
-﻿create schema challenge
+CREATE SCHEMA challenge
