@@ -11,6 +11,7 @@
   - Primary Key: id
   - Foreign Key: department_id on departments.id
   - Foreign Key: job_id on jobs.id
+- log_table: details on failed Stored Procedure.
 
 **Stored Procedure:**
 - delete_all_tables: empties tables departments, jobs and hired_employees.
