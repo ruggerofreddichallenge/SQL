@@ -1,4 +1,4 @@
-# sql
+# SQL
 **Schema:**
 - schema: the schema containing tables and stored procedures.
 
