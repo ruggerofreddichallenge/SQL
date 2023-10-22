@@ -19,6 +19,6 @@
 - most_hiring_departments: answers to point two of question two.
   - Parameters: year (default value 2021).
 
-**Important Note:** on table hired_employees there are missing values for the department_id and the job_id. Stored Procedure employees_hired will expose 'Unknown department' and 'Unknown Job' whenever the respective value will not be available.
+**Important Note:** on table hired_employees there are missing (Null) values for the department_id and the job_id. Stored Procedure employees_hired will expose 'Unknown department' and 'Unknown Job' whenever the respective value will not be available.
 
   
